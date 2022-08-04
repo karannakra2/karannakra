@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karannakra
-- 👀 I’m interested in building writing code that actually works.
+- 👀 I’m interested in writing code that actually works.
 - 🌱 I’m currently learning clojure , clojurescript, re-frame.
 - 💞️ I’m looking to collaborate on React, Angular,Vue,Html,Css,Javascript
 - 📫 How to reach me karannakra1@gmail.com
