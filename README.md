@@ -26,9 +26,6 @@ Welcome to my GitHub profile! I'm passionate about building elegant and efficien
 
 - **Reagent** ⚡️: Reagent, a lightweight wrapper for React in ClojureScript, allows me to combine the best of both worlds. I enjoy the seamless integration between ClojureScript and React that Reagent provides.
 
-## 🔭 Current Endeavor
-
-I'm currently collaborating with the open-source project [FogBender Software](https://github.com/fogbender). It's an exciting opportunity to contribute to cutting-edge software that empowers developers in building cloud-native applications.
 
 Feel free to check out the project and join me in the journey to make cloud development more accessible and efficient!
 
