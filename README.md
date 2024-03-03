@@ -36,7 +36,7 @@ I'm always eager to connect with fellow developers and discuss exciting opportun
 ## 📊 Some Statistics
 
 - **Contributions**:
--  [![GitHub Contributions](https://img.shields.io/github/commit-activity/m/fogbender/b2b-saaskit)](https://github.com/fogbender/b2b-saaskit/commits/main)
+-  [![GitHub Contributions](https://img.shields.io/github/commit-activity/m/fogbender/b2b-saaskit)](https://github.com/karannakra/super-calendar/commits/main)
 
 
 Looking forward to collaborating and creating innovative solutions! 🌟
