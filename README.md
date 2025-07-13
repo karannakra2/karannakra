@@ -2,7 +2,7 @@
 ### Software Developer | Open Source Enthusiast
 
 [![Twitter](https://img.shields.io/twitter/follow/karannakra?label=Follow%20%40karannakra&style=social)](https://twitter.com/karannakra)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/karannakra)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/karannakra2)
 
 Welcome to my GitHub profile! I'm passionate about building elegant and efficient solutions that leverage the power of modern web technologies. I have a diverse skill set and extensive experience in a wide range of languages and frameworks. Let's dive into what I bring to the table.
 
@@ -43,6 +43,6 @@ Looking forward to collaborating and creating innovative solutions! 🌟
 
 
 <!---
-karannakra/karannakra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+karannakra/karannakra2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
